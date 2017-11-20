@@ -1,4 +1,4 @@
--package com.in28minutes.maven;
+package com.in28minutes.maven;
 
 /**
  * Hello World test!
